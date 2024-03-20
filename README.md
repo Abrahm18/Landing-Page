@@ -3,9 +3,7 @@
 #Landing-Page
 
 > 2 time motorcycles for inexperienced people
-
-Motos 2 time para inexpertos
-2 time motorcycles for inexperienced people
+> 
 ![screenshot](Centro.png)
 
 It's just entertainment
